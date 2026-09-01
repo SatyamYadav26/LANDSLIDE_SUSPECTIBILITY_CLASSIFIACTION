@@ -40,7 +40,7 @@ The main objectives of this project are:
 The dataset used in this project is:
 
 ```text
-landslide_dataset(1).csv
+landslide_dataset.csv
 ```
 
 The dataset contains **2,000 observations and 10 columns**.
